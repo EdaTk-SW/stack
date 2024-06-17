@@ -1,0 +1,7 @@
+# Tool Ignores
+
+node-v20.14.0-win-x64/
+Perl-5.36.3-win-x64/
+PortableGit-2.45.2-win-x64/
+
+# PortableGit-2.45.2-win-x64.7z

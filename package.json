@@ -1,0 +1,12 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "main": "Setup.cmd",
+  "scripts": {
+    "Setup": "Setup.cmd"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
